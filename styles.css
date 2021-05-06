@@ -1,0 +1,30 @@
+.topNav {
+  display: inline-block;
+  background-color: black;
+  color: white;
+  width: 100px;
+  padding: 10px 25px;
+  text-align: center;
+  font-weight: 30;
+}
+
+.leftBlock {
+  height: 500px;
+  width: 29%;
+  background-color: grey;
+  float: left;
+}
+
+.rightBlock {
+  float: left;
+  width: 71%;
+  height: 100%;
+  background-color: blue;
+  text-align: center;
+  color: white;
+}
+
+.image1 {
+  width: 200px;
+  height: 200px;
+}
